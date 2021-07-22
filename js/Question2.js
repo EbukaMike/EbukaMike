@@ -1,0 +1,1 @@
+window.alert(3 * -7 * 2 )
